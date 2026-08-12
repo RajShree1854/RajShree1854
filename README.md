@@ -26,13 +26,13 @@
   
 <div align="center">
   <h2> <strong> My Github Stats </strong> <img src="assests/borderseperator.gif"></h2>
-  <img src="https://pornolab.vercel.app/?username=DarkDemon1854&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=4" width="100%" alt="Trophy" align="middle"  /> <br> <br>
+  <img src="https://pornolab.vercel.app/?username=Rajshree1854&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=4" width="100%" alt="Trophy" align="middle"  /> <br> <br>
 
-  <img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=DarkDemon1854&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages" /> <br>
+  <img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=RajShree1854&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages" /> <br>
 
-  <img src="https://streak-stats.demolab.com/?%20%20%20%20user=DarkDemon1854&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
+  <img src="https://streak-stats.demolab.com/?%20%20%20%20user=RajShree1854&theme=highcontrast&hide_border=true&border_radius=0&ring=2100FA&background=000000&fire=0079FA&currStreakNum=0079FA&dates=0079FA&sideNums=0079FA&currStreakLabel=0079FA&stroke=0079FA&sideLabels=0079FA" height="150" alt="streaks graph"  />
 
-  <img src="https://github-readme-stats2-olive.vercel.app/api?username=DarkDemon1854&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats2-olive.vercel.app/api?username=Rajshree1854&show_icons=true&title_color=0079fa&text_color=0079fa&iconcolor=0079fa&hide_border=true&bg_color=000000&border_radius=0&count_private=true&include_all_commits=true" height="150" alt="stats graph"  />
 </div> <br>
 
 <h2 align="center">Activity Graph</h2>
@@ -48,11 +48,11 @@
 <img src="assests/borderseperator.gif">
   <h3 align="center">Connect With Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/songoku2403/" target="_blank">
+  <a href="https://www.linkedin.com/in/songoku/" target="_blank">
     <img align="center" alt="linkedin logo" height="50" width="50" src="assests/linkedinlogo.png"/>
   </a> &nbsp;&nbsp;
   
-  <a href="https://profile-summary-for-github.herokuapp.com/user/DarkDemon1854" target="_blank">
+  <a href="https://profile-summary-for-github.herokuapp.com/user/RajShree1854" target="_blank">
     <img align="center" alt="github logo" height="50" width="50" src="assests/githublogo.png"/>
   </a> &nbsp;&nbsp;
   
