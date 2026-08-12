@@ -26,7 +26,7 @@
   
 <div align="center">
   <h2> <strong> My Github Stats </strong> <img src="assests/borderseperator.gif"></h2>
-  <img src="https://pornolab.vercel.app/?username=Rajshree1854&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=4" width="100%" alt="Trophy" align="middle"  /> <br> <br>
+  <img src="https://pornolab.vercel.app/?username=RajShree1854&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=4" width="100%" alt="Trophy" align="middle"  /> <br> <br>
 
   <img src="https://github-readme-stats2-olive.vercel.app/api/top-langs/?username=RajShree1854&langs_count=6&card_width=500&bg_color=000000&text_color=0079fa&hide_border=true&layout=compact" alt="Most used languages" /> <br>
 
